@@ -13,6 +13,23 @@
     "about": {
       "title": "من نحن",
       "description": "هذا وصف تجريبي"
+    },
+    "footer": {
+      "about_text": "شركة رائدة تقدم حلولاً متكاملة في مجالات التشغيل والصيانة والضيافة والنظافة، بخبرة واسعة ورؤية استراتيجية جعلتنا في طليعة الشركات المتخصصة.",
+      "about_company": "عن الشركة",
+      "who_we_are": "من نحن",
+      "vision": "رؤيتنا",
+      "mission": "رسالتنا",
+      "ceo_message": "كلمة الرئيس التنفيذي",
+      "our_services": "خدماتنا",
+      "contact_us": "تواصل معنا",
+      "address": "جدة - شارع الامير سلطان - حي النهضة",
+      "company_name": "شركة رواد الاستدامة",
+      "rights_reserved": "جميع الحقوق محفوظة.",
+      "design_by": "تصميم وبرمجة",
+      "help": "مساعد",
+      "privacy": "خصوصية",
+      "terms": "شروط"
     }
   },
   "en": {
@@ -29,6 +46,23 @@
     "about": {
       "title": "About Us",
       "description": "This is a sample description"
+    },
+    "footer": {
+      "about_text": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning. With strategic vision and wide expertise, we are among the top specialized companies.",
+      "about_company": "About Company",
+      "who_we_are": "Who We Are",
+      "vision": "Our Vision",
+      "mission": "Our Mission",
+      "ceo_message": "CEO Message",
+      "our_services": "Our Services",
+      "contact_us": "Contact Us",
+      "address": "Jeddah - Prince Sultan St. - Al Nahda District",
+      "company_name": "Rowad Al Estidama Co.",
+      "rights_reserved": "All rights reserved.",
+      "design_by": "Designed & Developed by",
+      "help": "Help",
+      "privacy": "Privacy Policy",
+      "terms": "Terms"
     }
   }
 }
