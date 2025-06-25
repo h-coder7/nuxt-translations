@@ -16,6 +16,12 @@
         "title": "من نحن"
       }
     },
+    "services-page": {
+      "title": "خدماتنا",
+      "inner": {
+        "title": "خدماتنا"
+      }
+    },
     "footer": {
       "about_text": "شركة رائدة تقدم حلولاً متكاملة في مجالات التشغيل والصيانة والضيافة والنظافة، بخبرة واسعة ورؤية استراتيجية جعلتنا في طليعة الشركات المتخصصة.",
       "about_company": "عن الشركة",
@@ -49,6 +55,12 @@
       "title": "About Us",
       "inner": {
         "title": "About Us"
+      }
+    },
+    "services-page": {
+      "title": "services",
+      "inner": {
+        "title": "services"
       }
     },
     "footer": {
