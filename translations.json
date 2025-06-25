@@ -10,9 +10,11 @@
       "contact": "تواصل معنا",
       "change_language": "تغيير اللغة"
     },
-    "about": {
+    "about-page": {
       "title": "من نحن",
-      "description": "هذا وصف تجريبي"
+      "inner": {
+        "title": "من نحن"
+      }
     },
     "footer": {
       "about_text": "شركة رائدة تقدم حلولاً متكاملة في مجالات التشغيل والصيانة والضيافة والنظافة، بخبرة واسعة ورؤية استراتيجية جعلتنا في طليعة الشركات المتخصصة.",
@@ -43,9 +45,11 @@
       "contact": "Contact Us",
       "change_language": "Change Language"
     },
-    "about": {
+    "about-page": {
       "title": "About Us",
-      "description": "This is a sample description"
+      "inner": {
+        "title": "About Us"
+      }
     },
     "footer": {
       "about_text": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning. With strategic vision and wide expertise, we are among the top specialized companies.",
