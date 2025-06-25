@@ -1,25 +1,24 @@
-{
-    "ar": {
-      "navbar": {
-        "home": "الرئيسية",
-        "about": "من نحن",
-        "services": "خدماتنا"
-      },
-      "about": {
-        "title": "من نحن",
-        "description": "هذا وصف تجريبي"
-      }
+ar: {
+        navbar: {
+            home: 'الرئيسية',
+            about: 'من نحن',
+            ceo: 'كلمة الرئيس التنفيذي',
+            services: 'خدماتنا',
+            projects: 'المشاريع',
+            careers: 'الوظائف',
+            contact: 'تواصل معنا',
+            change_language: 'تغيير اللغة'
+        }
     },
-    "en": {
-      "navbar": {
-        "home": "Home",
-        "about": "About Us",
-        "services": "Our Services"
-      },
-      "about": {
-        "title": "About Us",
-        "description": "This is a sample description"
-      }
+    en: {
+        navbar: {
+            home: 'Home',
+            about: 'About Us',
+            ceo: 'CEO Message',
+            services: 'Our Services',
+            projects: 'Projects',
+            careers: 'Careers',
+            contact: 'Contact Us',
+            change_language: 'Change Language'
+        }
     }
-  }
-  
