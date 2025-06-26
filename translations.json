@@ -37,6 +37,10 @@
         "text": "نطمح إلى الريادة في مجالنا وتقديم قيمة مستدامة."
       }
     },
+    "clients": {
+      "section_title": "شركاء النجاح",
+      "main_heading": "نجاحاتنا تبدأ من ثقة شركائنا"
+    },
     "about-page": {
       "title": "من نحن",
       "inner": {
@@ -104,6 +108,10 @@
         "title": "Vision",
         "text": "We aspire to lead in our field and deliver sustainable value."
       }
+    },
+    "clients": {
+      "section_title": "our partners",
+      "main_heading": "Our successes start with the trust of our partners."
     },
     "about-page": {
       "title": "About Us",
