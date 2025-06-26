@@ -73,6 +73,11 @@
         "description": "في شركة رواد الاستدامة، نقدم مجموعة من الخدمات الحيوية التي تغطي احتياجات عملائنا في مختلف القطاعات، مع الالتزام بالجودة، السرعة، والاحترافية."
       }
     },
+    "services": {
+      "section_title": "خدماتنا",
+      "main_heading": "نقدم حلولاً متكاملة لتلبية احتياجاتكم",
+      "view_all": "عرض جميع الخدمات"
+    },
     "footer": {
       "about_text": "شركة رائدة تقدم حلولاً متكاملة في مجالات التشغيل والصيانة والضيافة والنظافة، بخبرة واسعة ورؤية استراتيجية جعلتنا في طليعة الشركات المتخصصة.",
       "about_company": "عن الشركة",
@@ -164,6 +169,11 @@
         "title": "Contracting & Support",
         "description": "At Rawad Alestidama, we offer a range of vital services that cover our clients' needs across various sectors, with a commitment to quality, speed, and professionalism."
       }
+    },
+    "services": {
+      "section_title": "Our Services",
+      "main_heading": "We provide integrated solutions to meet your needs",
+      "view_all": "View All Services"
     },
     "footer": {
       "about_text": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning. With strategic vision and wide expertise, we are among the top specialized companies.",
