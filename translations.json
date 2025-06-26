@@ -37,6 +37,12 @@
         "text": "نطمح إلى الريادة في مجالنا وتقديم قيمة مستدامة."
       }
     },
+    "numberCards": {
+      "projects": { "label": "عدد المشاريع المنجزة" },
+      "partners": { "label": "عدد الشركاء" },
+      "employees": { "label": "عدد الموظفين" },
+      "countries": { "label": "عدد الدول التي نخدمها" }
+    },
     "clients": {
       "section_title": "شركاء النجاح",
       "main_heading": "نجاحاتنا تبدأ من ثقة شركائنا"
@@ -108,6 +114,12 @@
         "title": "Vision",
         "text": "We aspire to lead in our field and deliver sustainable value."
       }
+    },
+    "numberCards": {
+      "projects": { "label": "Completed Projects" },
+      "partners": { "label": "Partners" },
+      "employees": { "label": "Employees" },
+      "countries": { "label": "Countries Served" }
     },
     "clients": {
       "section_title": "our partners",
