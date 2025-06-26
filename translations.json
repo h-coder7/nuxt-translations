@@ -16,6 +16,27 @@
       "contact": "تواصل معنا",
       "services": "خدماتنا"
     },
+    "about": {
+      "section_title": "من نحن",
+      "main_heading": "تُعد شركة رواد الاستدامة إحدى الشركات الرائدة",
+      "description_1": "في تقديم خدمات التشغيل، الصيانة، الضيافة، والنظافة. منذ تأسيسها، وضعت الشركة نصب عينيها التميز والجودة، مستندة إلى خبرات واسعة وكوادر بشرية مؤهلة.",
+      "description_2": "نعمل وفق استراتيجية واضحة تهدف إلى تحقيق التكامل بين فرق العمل الإداري، الفني، والميداني، مما يمنحنا القدرة على تقديم خدمات شاملة تتسم بالكفاءة والاحترافية.",
+      "more_button": "مشاهدة المزيد"
+    },
+    "visionCards": {
+      "goals": {
+        "title": "الأهداف",
+        "text": "نحن نركز على تحقيق أهداف استراتيجية واضحة وطموحة."
+      },
+      "mission": {
+        "title": "الرسالة",
+        "text": "رسالتنا هي توفير حلول مبتكرة وفعالة لعملائنا."
+      },
+      "vision": {
+        "title": "الرؤية",
+        "text": "نطمح إلى الريادة في مجالنا وتقديم قيمة مستدامة."
+      }
+    },
     "about-page": {
       "title": "من نحن",
       "inner": {
@@ -62,6 +83,27 @@
       "main": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning, with extensive experience and strategic vision that placed us at the forefront of specialized companies.",
       "contact": "Contact Us",
       "services": "Our Services"
+    },
+    "about": {
+      "section_title": "About Us",
+      "main_heading": "Rawad Alestidama is one of the leading companies",
+      "description_1": "In providing operations, maintenance, hospitality, and cleaning services. Since its establishment, the company has pursued excellence and quality, relying on extensive experience and qualified personnel.",
+      "description_2": "We work according to a clear strategy aiming to achieve integration between administrative, technical, and field teams, allowing us to provide comprehensive, efficient, and professional services.",
+      "more_button": "View More"
+    },
+    "visionCards": {
+      "goals": {
+        "title": "Goals",
+        "text": "We focus on achieving clear and ambitious strategic goals."
+      },
+      "mission": {
+        "title": "Mission",
+        "text": "Our mission is to provide innovative and effective solutions for our clients."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "We aspire to lead in our field and deliver sustainable value."
+      }
     },
     "about-page": {
       "title": "About Us",
