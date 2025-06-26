@@ -71,6 +71,10 @@
       "support": {
         "title": "التعاقد والدعم",
         "description": "في شركة رواد الاستدامة، نقدم مجموعة من الخدمات الحيوية التي تغطي احتياجات عملائنا في مختلف القطاعات، مع الالتزام بالجودة، السرعة، والاحترافية."
+      },
+      "support": {
+        "title": "التعاقد والدعم",
+        "description": "في شركة رواد الاستدامة، نقدم مجموعة من الخدمات الحيوية التي تغطي احتياجات عملائنا في مختلف القطاعات، مع الالتزام بالجودة، السرعة، والاحترافية."
       }
     },
     "services": {
@@ -163,6 +167,10 @@
       },
       "manpower": {
         "title": "Manpower Rental",
+        "description": "At Rawad Alestidama, we offer a range of vital services that cover our clients' needs across various sectors, with a commitment to quality, speed, and professionalism."
+      },
+      "support": {
+        "title": "Contracting & Support",
         "description": "At Rawad Alestidama, we offer a range of vital services that cover our clients' needs across various sectors, with a commitment to quality, speed, and professionalism."
       },
       "support": {
