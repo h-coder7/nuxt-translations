@@ -10,6 +10,12 @@
       "contact": "تواصل معنا",
       "change_language": "تغيير اللغة"
     },
+    "hero": {
+      "welcome": "مرحباً بكم في شركة رواد الاستدامة",
+      "main": "شركة رائدة تقدم حلولاً متكاملة في مجالات التشغيل والصيانة والضيافة والنظافة، بخبرة واسعة ورؤية استراتيجية جعلتنا في طليعة الشركات المتخصصة.",
+      "contact": "تواصل معنا",
+      "services": "خدماتنا"
+    },
     "about-page": {
       "title": "من نحن",
       "inner": {
@@ -50,6 +56,12 @@
       "careers": "Careers",
       "contact": "Contact Us",
       "change_language": "Change Language"
+    },
+    "hero": {
+      "welcome": "Welcome to Rawad Alestidama Company",
+      "main": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning, with extensive experience and strategic vision that placed us at the forefront of specialized companies.",
+      "contact": "Contact Us",
+      "services": "Our Services"
     },
     "about-page": {
       "title": "About Us",
