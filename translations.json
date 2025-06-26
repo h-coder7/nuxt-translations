@@ -40,45 +40,5 @@
       "terms": "شروط"
     }
   },
-  "en": {
-    "navbar": {
-      "home": "Home",
-      "about": "About Us",
-      "ceo": "CEO Message",
-      "services": "Our Services",
-      "projects": "Projects",
-      "careers": "Careers",
-      "contact": "Contact Us",
-      "change_language": "Change Language"
-    },
-    "about-page": {
-      "title": "About Us",
-      "inner": {
-        "title": "About Us"
-      }
-    },
-    "services-page": {
-      "title": "services",
-      "inner": {
-        "title": "services"
-      }
-    },
-    "footer": {
-      "about_text": "A leading company providing integrated solutions in operations, maintenance, hospitality, and cleaning. With strategic vision and wide expertise, we are among the top specialized companies.",
-      "about_company": "About Company",
-      "who_we_are": "Who We Are",
-      "vision": "Our Vision",
-      "mission": "Our Mission",
-      "ceo_message": "CEO Message",
-      "our_services": "Our Services",
-      "contact_us": "Contact Us",
-      "address": "Jeddah - Prince Sultan St. - Al Nahda District",
-      "company_name": "Rowad Al Estidama Co.",
-      "rights_reserved": "All rights reserved.",
-      "design_by": "Designed & Developed by",
-      "help": "Help",
-      "privacy": "Privacy Policy",
-      "terms": "Terms"
-    }
-  }
+  
 }
